@@ -1,0 +1,336 @@
+body{
+
+    margin:0;
+    padding:0;
+    /* height:4000px; */
+    width:100%;
+
+}
+
+.forest{
+
+    background-image: url('../responsive-template images/hero.jpg');
+    background-repeat:no-repeat;
+    height:1000px;
+    width:100%;
+
+}
+
+.forest-background{
+
+    background-color:  rgba(0,0,0,0.5);
+
+}
+
+
+.menu{
+
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    width:100%;
+   
+}
+
+
+.left-side-bar{
+
+    margin-left:25px;
+
+}
+
+.logo{
+
+    color:#ffffff;
+    font-size:x-large;
+    text-decoration:none;
+
+}
+
+.logo:hover{
+
+    text-decoration:none;
+    color:#ff0000;
+
+}
+
+.right-side-bar{
+
+    width:350px;
+    display:flex;
+    justify-content:space-between;
+    list-style-type:none;
+    margin-right:25px;
+
+}
+
+.rsb-option{
+
+    color:#ffffff;
+    font-size:large;
+    text-decoration:none;
+   
+}
+
+.rsb-option:hover{
+
+    text-decoration:none;
+    color:#ff0000;
+
+}
+
+.center-title{
+
+    margin-top:100px;
+    color:#ffffff;
+    font-size:x-large;
+    text-align:center;
+    
+}
+
+.top-button{
+
+    background-color: #2196f3;
+    color:#ffffff;
+    font-size:medium;
+    text-transform:uppercase;
+    border:none;
+    height:60px;
+    width:180px;
+
+}
+
+.top-button:hover{
+
+    text-decoration: underline;
+    color:#ff0000;
+
+}
+
+.learn{
+
+    font-size:xx-large;
+    word-spacing:1px;
+
+}
+
+.portfolio{
+
+    margin-top:625px;
+    height:1000px;
+    /* background-color: red; */
+ 
+}
+
+.portfolio-description{
+
+    color:black;
+    height:200px;
+    /* background-color: blue; */
+    width:80%;
+    margin-left:140px;
+    margin-right:150px;
+    padding-top:50px;
+   
+}
+
+.portfolio-title{
+
+    margin-bottom:25px;
+    text-transform:capitalize;
+
+}
+
+.portfolio-text{
+
+    font-size:medium;
+    margin-bottom:20px;
+
+}
+
+hr{
+
+    border:1px solid #ff0000;
+    width:100px;
+
+}
+
+.first-two-img{
+
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    width:80%;
+    height:375px;
+    margin-left:140px;
+    margin-right:150px;
+
+    /* background-color: aquamarine; */
+
+}
+
+.coast{
+
+    width:400px;
+    height:300px;
+
+}
+
+.second-two-img{
+
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    width:80%;
+    height:375px;
+    margin-left:140px;
+    margin-right:150px;
+
+    /* background-color:fuchsia; */
+
+}
+
+.island{
+
+    width:600px;
+    height:300px;
+
+}
+
+.balloon{
+
+    width:600px;
+    height:300px;
+
+}
+
+.mountain{
+
+    width:400px;
+    height:300px;
+
+}
+
+.specification{
+
+    margin-top:625px;
+    height:850px;
+    background-color:#f1f1f1;
+    margin:0;
+    /* background-color: purple; */
+   
+}
+
+.features-services{
+
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    color:black;
+    /* background-color: green; */
+    height:200px;
+    margin-left:140px;
+    margin-right:150px;
+    margin-top:20px;
+
+}
+
+.address-book,.photography, .univeristy{
+
+    /* padding:0 50px; */
+    /* background-color: #ff0000; */
+
+}
+
+.icon{
+
+    color:#2196f3;
+    font-size: 45px;
+    padding-top:10px;
+}
+
+.description{
+
+    font-size:medium;
+    
+}
+
+.subscription{
+
+    height:200px;
+    display:flex;
+    align-items:flex-start;
+    justify-content:center;
+
+}
+
+.subscribe{
+
+    background-color: #2196f3;
+    color:#ffffff;
+    font-size:medium;
+    text-transform:uppercase;
+    border:none;
+    height:40px;
+    width:180px;
+
+}
+
+.subscribe:hover{
+
+    text-decoration: underline;
+    color:#ff0000;
+
+}
+
+.send{
+
+    height:37px;
+    width:220px;
+    border:1px solid #c3c3c3;
+
+}
+
+.communicate{
+
+    background-color: #696969;
+    height:150px;
+    padding:25px 40px;
+
+}
+
+.social{
+
+    margin-top:15px;
+    
+}
+
+.sn-logo{
+
+    margin-right:10px;
+    color:#ffffff;
+}
+
+.sn-logo:link{
+
+    color:#ffffff;
+
+}
+
+.sn-logo:visited{
+
+    color:#ff7f27;
+
+}
+
+.sn-logo:hover{
+
+    color:#ff0000;
+
+}
+
+.credits{
+
+    font-size:medium;
+
+}
